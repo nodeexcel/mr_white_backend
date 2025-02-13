@@ -1,0 +1,9 @@
+openai
+fastapi
+librosa
+python-dotenv
+g2p_en
+edge-tts
+pydub
+uvicorn
+SpeechRecognition
